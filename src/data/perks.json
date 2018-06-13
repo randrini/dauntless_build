@@ -7,36 +7,48 @@
 		"levels": [
 			{
 				"id": 1,
+				"skillName": "Assassin`s Vigor",
+				"skill": 1,
 				"slug": "assassin-vigor-level-1",
 				"level": 1,
 				"desc": "Heal 50 when you break a part"
 			},
 			{
 				"id": 2,
+				"skillName": "Assassin`s Vigor",
+				"skill": 1,
 				"slug": "assassin-vigor-level-2",
 				"level": 2,
 				"desc": "Heal 100 when you break a part"
 			},
 			{
 				"id": 3,
+				"skillName": "Assassin`s Vigor",
+				"skill": 1,
 				"slug": "assassin-vigor-level-3",
 				"level": 3,
 				"desc": "Heal 150 when you break a part"
 			},
 			{
 				"id": 4,
+				"skillName": "Assassin`s Vigor",
+				"skill": 1,
 				"slug": "assassin-vigor-level-4",
 				"level": 4,
 				"desc": "Heal 200 when you break a part"
 			},
 			{
 				"id": 5,
+				"skillName": "Assassin`s Vigor",
+				"skill": 1,
 				"slug": "assassin-vigor-level-5",
 				"level": 5,
 				"desc": "Heal 250 when you break a part"
 			},
 			{
 				"id": 6,
+				"skillName": "Assassin`s Vigor",
+				"skill": 1,
 				"slug": "assassin-vigor-level-6",
 				"level": 6,
 				"desc": "Heal 300 when you break a part"
@@ -51,33 +63,45 @@
 		"levels": [
 			{
 				"id": 7,
+				"skillName": "Bloodless",
+				"skill": 2,
 				"level": 1,
 				"desc": "Reduces duration of Wounded status by 50%"
 			},
 			{
 				"id": 8,
+				"skillName": "Bloodless",
+				"skill": 2,
 				"level": 1,
 				"desc": "Reduces duration of Wounded status by 80%"
 			},
 			{
 				"id": 9,
+				"skillName": "Bloodless",
+				"skill": 2,
 				"level": 1,
 				"desc": "Immune to Wounded status"
 			},
 			{
 				"id": 10,
+				"skillName": "Bloodless",
+				"skill": 2,
 				"level": 1,
 				"desc":
 					"Reduces effectiveness of Crippling Wounded status by 50%</br>Immune to Wounded status"
 			},
 			{
 				"id": 11,
+				"skillName": "Bloodless",
+				"skill": 2,
 				"level": 1,
 				"desc":
 					"Reduces effectiveness of Crippling Wounded status by 80%</br>Immune to Wounded status"
 			},
 			{
 				"id": 12,
+				"skillName": "Bloodless",
+				"skill": 2,
 				"level": 1,
 				"desc": "Immune to Wounded status</br>Immune to Crippling Wound status"
 			}
@@ -91,31 +115,43 @@
 		"levels": [
 			{
 				"id": 13,
+				"skillName": "Fireproof",
+				"skill": 3,
 				"level": 1,
 				"desc": "Reduces duration of On Fire status by 10%"
 			},
 			{
 				"id": 14,
+				"skillName": "Fireproof",
+				"skill": 3,
 				"level": 2,
 				"desc": "Reduces duration of On Fire status by 20%"
 			},
 			{
 				"id": 15,
+				"skillName": "Fireproof",
+				"skill": 3,
 				"level": 3,
 				"desc": "Reduces duration of On Fire status by 40%"
 			},
 			{
 				"id": 16,
+				"skillName": "Fireproof",
+				"skill": 3,
 				"level": 4,
 				"desc": "Reduces duration of On Fire status by 60%"
 			},
 			{
 				"id": 17,
+				"skillName": "Fireproof",
+				"skill": 3,
 				"level": 5,
 				"desc": "Reduces duration of On Fire status by 80%"
 			},
 			{
 				"level": 6,
+				"skillName": "Fireproof",
+				"skill": 3,
 				"desc": "Immune to being set on fire.",
 				"id": 18
 			}
@@ -129,31 +165,43 @@
 		"levels": [
 			{
 				"level": 1,
+				"skillName": "Fortress",
+				"skill": 4,
 				"desc": "Grants a 10 health shield after not getting hit for 10s",
 				"id": 19
 			},
 			{
 				"level": 2,
+				"skillName": "Fortress",
+				"skill": 4,
 				"desc": "Grants a 20 health shield after not getting hit for 10s",
 				"id": 20
 			},
 			{
 				"level": 3,
+				"skillName": "Fortress",
+				"skill": 4,
 				"desc": "Grants a 40 health shield after not getting hit for 10s",
 				"id": 21
 			},
 			{
 				"level": 4,
+				"skillName": "Fortress",
+				"skill": 4,
 				"desc": "Grants a 60 health shield after not getting hit for 10s",
 				"id": 22
 			},
 			{
 				"level": 5,
+				"skillName": "Fortress",
+				"skill": 4,
 				"desc": "Grants a 80 health shield after not getting hit for 10s",
 				"id": 23
 			},
 			{
 				"level": 6,
+				"skillName": "Fortress",
+				"skill": 4,
 				"desc": "Grants a 100 health shield after not getting hit for 10s",
 				"id": 24
 			}
@@ -168,33 +216,45 @@
 		"levels": [
 			{
 				"id": 25,
+				"skillName": "Insulated",
+				"skill": 5,
 				"level": 1,
 				"desc": "Reduces duration of Shocked status by 25%"
 			},
 			{
 				"id": 26,
+				"skillName": "Insulated",
+				"skill": 5,
 				"level": 2,
 				"desc": "Reduces duration of Shocked status by 50%"
 			},
 			{
 				"id": 27,
+				"skillName": "Insulated",
+				"skill": 5,
 				"level": 3,
 				"desc": "Reduces duration of Shocked status by 75%"
 			},
 			{
 				"id": 28,
+				"skillName": "Insulated",
+				"skill": 5,
 				"level": 4,
 				"desc":
 					"Reduces duration of Shocked status by 75%</br>Reduces knockback and damage of hitting electrified shields."
 			},
 			{
 				"id": 29,
+				"skillName": "Insulated",
+				"skill": 5,
 				"level": 5,
 				"desc":
 					"Reduces duration of Shocked status by 75%</br>Prevents knockback and damage of hitting electrified shields."
 			},
 			{
 				"id": 30,
+				"skillName": "Insulated",
+				"skill": 5,
 				"level": 6,
 				"desc":
 					"Immune to Shocked status</br>Prevents knockback and damage of hitting electrified shields."
@@ -210,33 +270,45 @@
 		"levels": [
 			{
 				"id": 31,
+				"skillName": "Nine Lives",
+				"skill": 6,
 				"level": 1,
 				"desc": "+5% chance to halve incoming damage"
 			},
 			{
 				"id": 32,
+				"skillName": "Nine Lives",
+				"skill": 6,
 				"level": 2,
 				"desc": "+8% chance to halve incoming damage"
 			},
 			{
 				"id": 33,
+				"skillName": "Nine Lives",
+				"skill": 6,
 				"level": 3,
 				"desc": "+12% chance to halve incoming damage"
 			},
 			{
 				"id": 34,
+				"skillName": "Nine Lives",
+				"skill": 6,
 				"level": 4,
 				"desc":
 					"+12% chance to halve incoming damage</br>The first time you would be knocked out, stay up and heal for 400"
 			},
 			{
 				"id": 35,
+				"skillName": "Nine Lives",
+				"skill": 6,
 				"level": 5,
 				"desc":
 					"+16% chance to halve incoming damage</br>The first time you would be knocked out, stay up and heal for 400"
 			},
 			{
 				"id": 36,
+				"skillName": "Nine Lives",
+				"skill": 6,
 				"level": 6,
 				"desc":
 					"+20% chance to halve incoming damage</br>The first time you would be knocked out, stay up and heal for 400, and become empowered for 10 seconds"
@@ -252,36 +324,48 @@
 		"levels": [
 			{
 				"id": 37,
+				"skillName": "Shellshock Resist",
+				"skill": 7,
 				"level": 1,
 				"desc":
 					"Reduces Shell Shocked explosion damage and status effect duration by 10%"
 			},
 			{
 				"id": 38,
+				"skillName": "Shellshock Resist",
+				"skill": 7,
 				"level": 2,
 				"desc":
 					"Reduces Shell Shocked explosion damage and status effect duration by 20%"
 			},
 			{
 				"id": 39,
+				"skillName": "Shellshock Resist",
+				"skill": 7,
 				"level": 3,
 				"desc":
 					"Reduces Shell Shocked explosion damage and status effect duration by 40%"
 			},
 			{
 				"id": 40,
+				"skillName": "Shellshock Resist",
+				"skill": 7,
 				"level": 4,
 				"desc":
 					"Reduces Shell Shocked explosion damage and status effect duration by 60%"
 			},
 			{
 				"id": 41,
+				"skillName": "Shellshock Resist",
+				"skill": 7,
 				"level": 5,
 				"desc":
 					"Reduces Shell Shocked explosion damage and status effect duration by 80%"
 			},
 			{
 				"id": 42,
+				"skillName": "Shellshock Resist",
+				"skill": 7,
 				"level": 6,
 				"desc": "Immune to Shell Shocked explosion damage and status effect"
 			}
@@ -295,31 +379,43 @@
 		"levels": [
 			{
 				"id": 43,
+				"skillName": "Sturdy",
+				"skill": 8,
 				"level": 1,
 				"desc": "Prevents you from being staggered (120 second cooldown)"
 			},
 			{
 				"id": 44,
+				"skillName": "Sturdy",
+				"skill": 8,
 				"level": 2,
 				"desc": "Prevents you from being staggered (100 second cooldown)"
 			},
 			{
 				"id": 45,
+				"skillName": "Sturdy",
+				"skill": 8,
 				"level": 3,
 				"desc": "Prevents you from being staggered (80 second cooldown)"
 			},
 			{
 				"id": 46,
+				"skillName": "Sturdy",
+				"skill": 8,
 				"level": 4,
 				"desc": "Prevents you from being staggered (60 second cooldown)"
 			},
 			{
 				"id": 47,
+				"skillName": "Sturdy",
+				"skill": 8,
 				"level": 5,
 				"desc": "Prevents you from being staggered (40 second cooldown)"
 			},
 			{
 				"id": 48,
+				"skillName": "Sturdy",
+				"skill": 8,
 				"level": 6,
 				"desc": "Prevents you from being staggered (15 second cooldown)"
 			}
@@ -333,31 +429,43 @@
 		"levels": [
 			{
 				"id": 49,
+				"skillName": "Tough",
+				"skill": 9,
 				"level": 1,
 				"desc": "Increases Max Health by 50"
 			},
 			{
 				"id": 50,
+				"skillName": "Tough",
+				"skill": 9,
 				"level": 2,
 				"desc": "Increases Max Health by 100"
 			},
 			{
 				"id": 51,
+				"skillName": "Tough",
+				"skill": 9,
 				"level": 3,
 				"desc": "Increases Max Health by 150"
 			},
 			{
 				"id": 52,
+				"skillName": "Tough",
+				"skill": 9,
 				"level": 4,
 				"desc": "Increases Max Health by 250"
 			},
 			{
 				"id": 53,
+				"skillName": "Tough",
+				"skill": 9,
 				"level": 5,
 				"desc": "Increases Max Health by 350"
 			},
 			{
 				"id": 54,
+				"skillName": "Tough",
+				"skill": 9,
 				"level": 6,
 				"desc": "Increases Max Health by 500"
 			}
@@ -371,33 +479,45 @@
 		"levels": [
 			{
 				"id": 55,
+				"skillName": "Warmth",
+				"skill": 10,
 				"level": 1,
 				"desc": "Reduces duration of Frozen status by 30%"
 			},
 			{
 				"id": 56,
+				"skillName": "Warmth",
+				"skill": 10,
 				"level": 2,
 				"desc": "Reduces duration of Frozen status by 60%"
 			},
 			{
 				"id": 57,
+				"skillName": "Warmth",
+				"skill": 10,
 				"level": 3,
 				"desc": "Immune to being Frozen"
 			},
 			{
 				"id": 58,
+				"skillName": "Warmth",
+				"skill": 10,
 				"level": 4,
 				"desc":
 					"Reduces duration of Chilled status by 30%</br>Immune to being Frozen"
 			},
 			{
 				"id": 59,
+				"skillName": "Warmth",
+				"skill": 10,
 				"level": 5,
 				"desc":
 					"Reduces duration of Chilled status by 60%</br>Immune to being Frozen"
 			},
 			{
 				"id": 60,
+				"skillName": "Warmth",
+				"skill": 10,
 				"level": 6,
 				"desc": "Immune to being Frozen</br>Immune to being Chilled"
 			}
@@ -411,31 +531,43 @@
 		"levels": [
 			{
 				"id": 61,
+				"skillName": "Agility",
+				"skill": 11,
 				"level": 1,
 				"desc": "-20% Dodge Roll Stamina Cost"
 			},
 			{
 				"id": 62,
+				"skillName": "Agility",
+				"skill": 11,
 				"level": 2,
 				"desc": "-30% Dodge Roll Stamina Cost"
 			},
 			{
 				"id": 63,
+				"skillName": "Agility",
+				"skill": 11,
 				"level": 3,
 				"desc": "-40% Dodge Roll Stamina Cost"
 			},
 			{
 				"id": 64,
+				"skillName": "Agility",
+				"skill": 11,
 				"level": 4,
 				"desc": "-55% Dodge Roll Stamina Cost"
 			},
 			{
 				"id": 65,
+				"skillName": "Agility",
+				"skill": 11,
 				"level": 5,
 				"desc": "-10% Dodge Roll Stamina Cost"
 			},
 			{
 				"id": 66,
+				"skillName": "Agility",
+				"skill": 11,
 				"level": 6,
 				"desc": "-70% Dodge Roll Stamina Cost"
 			}
@@ -449,31 +581,43 @@
 		"levels": [
 			{
 				"id": 67,
+				"skillName": "Conditioning",
+				"skill": 12,
 				"level": 1,
 				"desc": "+5 Stamina Regeneration"
 			},
 			{
 				"id": 68,
+				"skillName": "Conditioning",
+				"skill": 12,
 				"level": 2,
 				"desc": "+10 Stamina Regeneration"
 			},
 			{
 				"id": 69,
+				"skillName": "Conditioning",
+				"skill": 12,
 				"level": 3,
 				"desc": "+15 Stamina Regeneration"
 			},
 			{
 				"id": 70,
+				"skillName": "Conditioning",
+				"skill": 12,
 				"level": 4,
 				"desc": "+20 Stamina Regeneration"
 			},
 			{
 				"id": 71,
+				"skillName": "Conditioning",
+				"skill": 12,
 				"level": 5,
 				"desc": "+25 Stamina Regeneration"
 			},
 			{
 				"id": 72,
+				"skillName": "Conditioning",
+				"skill": 12,
 				"level": 6,
 				"desc": "+30 Stamina Regeneration"
 			}
@@ -487,31 +631,43 @@
 		"levels": [
 			{
 				"id": 73,
+				"skillName": "Endurance",
+				"skill": 13,
 				"level": 1,
 				"desc": "Increases Max Stamina by 10"
 			},
 			{
 				"id": 74,
+				"skillName": "Endurance",
+				"skill": 13,
 				"level": 2,
 				"desc": "Increases Max Stamina by 20"
 			},
 			{
 				"id": 75,
+				"skillName": "Endurance",
+				"skill": 13,
 				"level": 3,
 				"desc": "Increases Max Stamina by 40"
 			},
 			{
 				"id": 76,
+				"skillName": "Endurance",
+				"skill": 13,
 				"level": 4,
 				"desc": "Increases Max Stamina by 60"
 			},
 			{
 				"id": 77,
+				"skillName": "Endurance",
+				"skill": 13,
 				"level": 5,
 				"desc": "Increases Max Stamina by 80"
 			},
 			{
 				"id": 78,
+				"skillName": "Endurance",
+				"skill": 13,
 				"level": 6,
 				"desc": "Increases Max Stamina by 100"
 			}
@@ -525,31 +681,43 @@
 		"levels": [
 			{
 				"id": 79,
+				"skillName": "Evasion",
+				"skill": 14,
 				"level": 1,
 				"desc": "Increases Dodge invulnerability windows by 7%"
 			},
 			{
 				"id": 80,
+				"skillName": "Evasion",
+				"skill": 14,
 				"level": 2,
 				"desc": "Increases Dodge invulnerability windows by 14%"
 			},
 			{
 				"id": 81,
+				"skillName": "Evasion",
+				"skill": 14,
 				"level": 3,
 				"desc": "Increases Dodge invulnerability windows by 21%"
 			},
 			{
 				"id": 82,
+				"skillName": "Evasion",
+				"skill": 14,
 				"level": 4,
 				"desc": "Increases Dodge invulnerability windows by 28%"
 			},
 			{
 				"id": 83,
+				"skillName": "Evasion",
+				"skill": 14,
 				"level": 5,
 				"desc": "Increases Dodge invulnerability windows by 35%"
 			},
 			{
 				"id": 84,
+				"skillName": "Evasion",
+				"skill": 14,
 				"level": 6,
 				"desc": "Increases Dodge invulnerability windows by 42%"
 			}
@@ -563,36 +731,48 @@
 		"levels": [
 			{
 				"id": 85,
+				"skillName": "Fleet Footed",
+				"skill": 15,
 				"level": 1,
 				"desc":
 					"Following a Dodge, Movement Speed is increased by 10% for 3 seconds"
 			},
 			{
 				"id": 86,
+				"skillName": "Fleet Footed",
+				"skill": 15,
 				"level": 2,
 				"desc":
 					"Following a Dodge, Movement Speed is increased by 15% for 3 seconds"
 			},
 			{
 				"id": 87,
+				"skillName": "Fleet Footed",
+				"skill": 15,
 				"level": 3,
 				"desc":
 					"Following a Dodge, Movement Speed is increased by 20% for 3 seconds"
 			},
 			{
 				"id": 88,
+				"skillName": "Fleet Footed",
+				"skill": 15,
 				"level": 4,
 				"desc":
 					"Following a Dodge, Movement Speed is increased by 25% for 3 seconds"
 			},
 			{
 				"id": 89,
+				"skillName": "Fleet Footed",
+				"skill": 15,
 				"level": 5,
 				"desc":
 					"Following a Dodge, Movement Speed is increased by 30% for 3 seconds"
 			},
 			{
 				"id": 90,
+				"skillName": "Fleet Footed",
+				"skill": 15,
 				"level": 6,
 				"desc":
 					"Following a Dodge, Movement Speed is increased by 35% for 3 seconds"
@@ -607,31 +787,43 @@
 		"levels": [
 			{
 				"id": 91,
+				"skillName": "Nimble",
+				"skill": 16,
 				"level": 1,
 				"desc": "Gain 10 Stamina after dodging through an attack"
 			},
 			{
 				"id": 92,
+				"skillName": "Nimble",
+				"skill": 16,
 				"level": 2,
 				"desc": "Gain 15 Stamina after dodging through an attack"
 			},
 			{
 				"id": 93,
+				"skillName": "Nimble",
+				"skill": 16,
 				"level": 3,
 				"desc": "Gain 20 Stamina after dodging through an attack"
 			},
 			{
 				"id": 94,
+				"skillName": "Nimble",
+				"skill": 16,
 				"level": 4,
 				"desc": "Gain 25 Stamina after dodging through an attack"
 			},
 			{
 				"id": 95,
+				"skillName": "Nimble",
+				"skill": 16,
 				"level": 5,
 				"desc": "Gain 30 Stamina after dodging through an attack"
 			},
 			{
 				"id": 96,
+				"skillName": "Nimble",
+				"skill": 16,
 				"level": 6,
 				"desc": "Gain 35 Stamina after dodging through an attack"
 			}
@@ -645,31 +837,43 @@
 		"levels": [
 			{
 				"id": 97,
+				"skillName": "Swift",
+				"skill": 17,
 				"level": 1,
 				"desc": "While sheathed, increases Movement Speed by 5%"
 			},
 			{
 				"id": 98,
+				"skillName": "Swift",
+				"skill": 17,
 				"level": 2,
 				"desc": "While sheathed, increases Movement Speed by 10%"
 			},
 			{
 				"id": 99,
+				"skillName": "Swift",
+				"skill": 17,
 				"level": 3,
 				"desc": "While sheathed, increases Movement Speed by 15%"
 			},
 			{
 				"id": 100,
+				"skillName": "Swift",
+				"skill": 17,
 				"level": 4,
 				"desc": "While sheathed, increases Movement Speed by 20%"
 			},
 			{
 				"id": 101,
+				"skillName": "Swift",
+				"skill": 17,
 				"level": 5,
 				"desc": "While sheathed, increases Movement Speed by 25%"
 			},
 			{
 				"id": 102,
+				"skillName": "Swift",
+				"skill": 17,
 				"level": 6,
 				"desc":
 					"While sheathed, increases Movement Speed by 30%</br>Also affects other nearby Slayers."
@@ -684,31 +888,43 @@
 		"levels": [
 			{
 				"id": 103,
+				"skillName": "Aetherhunter",
+				"skill": 18,
 				"level": 1,
 				"desc": "105% Damage vs Aether-charged Behemoths"
 			},
 			{
 				"id": 104,
+				"skillName": "Aetherhunter",
+				"skill": 18,
 				"level": 2,
 				"desc": "110% Damage vs Aether-charged Behemoths"
 			},
 			{
 				"id": 105,
+				"skillName": "Aetherhunter",
+				"skill": 18,
 				"level": 3,
 				"desc": "120% Damage vs Aether-charged Behemoths"
 			},
 			{
 				"id": 106,
+				"skillName": "Aetherhunter",
+				"skill": 18,
 				"level": 4,
 				"desc": "130% Damage vs Aether-charged Behemoths"
 			},
 			{
 				"id": 107,
+				"skillName": "Aetherhunter",
+				"skill": 18,
 				"level": 5,
 				"desc": "140% Damage vs Aether-charged Behemoths"
 			},
 			{
 				"id": 108,
+				"skillName": "Aetherhunter",
+				"skill": 18,
 				"level": 6,
 				"desc": "150% Damage vs Aether-charged Behemoths"
 			}
@@ -722,31 +938,43 @@
 		"levels": [
 			{
 				"id": 109,
+				"skillName": "Deconstruction",
+				"skill": 19,
 				"level": 1,
 				"desc": "Deal 110% damage to objects created by Behemoths"
 			},
 			{
 				"id": 110,
+				"skillName": "Deconstruction",
+				"skill": 19,
 				"level": 2,
 				"desc": "Deal 120% damage to objects created by Behemoths"
 			},
 			{
 				"id": 111,
+				"skillName": "Deconstruction",
+				"skill": 19,
 				"level": 3,
 				"desc": "Deal 130% damage to objects created by Behemoths"
 			},
 			{
 				"id": 112,
+				"skillName": "Deconstruction",
+				"skill": 19,
 				"level": 4,
 				"desc": "Deal 150% damage to objects created by Behemoths"
 			},
 			{
 				"id": 113,
+				"skillName": "Deconstruction",
+				"skill": 19,
 				"level": 5,
 				"desc": "Deal 170% damage to objects created by Behemoths"
 			},
 			{
 				"id": 114,
+				"skillName": "Deconstruction",
+				"skill": 19,
 				"level": 6,
 				"desc": "Deal 200% damage to objects created by Behemoths"
 			}
@@ -760,33 +988,45 @@
 		"levels": [
 			{
 				"id": 115,
+				"skillName": "Knockout King",
+				"skill": 20,
 				"level": 1,
 				"desc": "5% Stagger Damage"
 			},
 			{
 				"id": 116,
+				"skillName": "Knockout King",
+				"skill": 20,
 				"level": 2,
 				"desc": "10% Stagger Damage"
 			},
 			{
 				"id": 117,
+				"skillName": "Knockout King",
+				"skill": 20,
 				"level": 3,
 				"desc": "15% Stagger Damage"
 			},
 			{
 				"id": 118,
+				"skillName": "Knockout King",
+				"skill": 20,
 				"level": 4,
 				"desc":
 					"20% Stagger Damage</br>After dodging through an attack, the next weapon attack's Stagger is increased by 50%"
 			},
 			{
 				"id": 119,
+				"skillName": "Knockout King",
+				"skill": 20,
 				"level": 5,
 				"desc":
 					"25% Stagger Damage</br>After dodging through an attack, the next weapon attack's Stagger is increased by 50%"
 			},
 			{
 				"id": 120,
+				"skillName": "Knockout King",
+				"skill": 20,
 				"level": 6,
 				"desc":
 					"30% Stagger Damage</br>After dodging through an attack, the next weapon attack's Stagger is increased by 100%"
@@ -801,31 +1041,43 @@
 		"levels": [
 			{
 				"id": 121,
+				"skillName": "Overpower",
+				"skill": 21,
 				"level": 1,
 				"desc": "110% Damage vs Staggered Behemoths"
 			},
 			{
 				"id": 122,
+				"skillName": "Overpower",
+				"skill": 21,
 				"level": 2,
 				"desc": "115% Damage vs Staggered Behemoths"
 			},
 			{
 				"id": 123,
+				"skillName": "Overpower",
+				"skill": 21,
 				"level": 3,
 				"desc": "125% Damage vs Staggered Behemoths"
 			},
 			{
 				"id": 124,
+				"skillName": "Overpower",
+				"skill": 21,
 				"level": 4,
 				"desc": "140% Damage vs Staggered Behemoths"
 			},
 			{
 				"id": 125,
+				"skillName": "Overpower",
+				"skill": 21,
 				"level": 5,
 				"desc": "160% Damage vs Staggered Behemoths"
 			},
 			{
 				"id": 126,
+				"skillName": "Overpower",
+				"skill": 21,
 				"level": 6,
 				"desc": "180% Damage vs Staggered Behemoths"
 			}
@@ -839,31 +1091,43 @@
 		"levels": [
 			{
 				"id": 127,
+				"skillName": "Pacifier",
+				"skill": 22,
 				"level": 1,
 				"desc": "110% Stagger vs Enraged Behemoths"
 			},
 			{
 				"id": 128,
+				"skillName": "Pacifier",
+				"skill": 22,
 				"level": 2,
 				"desc": "120% Stagger vs Enraged Behemoths"
 			},
 			{
 				"id": 129,
+				"skillName": "Pacifier",
+				"skill": 22,
 				"level": 3,
 				"desc": "130% Stagger vs Enraged Behemoths"
 			},
 			{
 				"id": 130,
+				"skillName": "Pacifier",
+				"skill": 22,
 				"level": 4,
 				"desc": "140% Stagger vs Enraged Behemoths"
 			},
 			{
 				"id": 131,
+				"skillName": "Pacifier",
+				"skill": 22,
 				"level": 5,
 				"desc": "150% Stagger vs Enraged Behemoths"
 			},
 			{
 				"id": 132,
+				"skillName": "Pacifier",
+				"skill": 22,
 				"level": 6,
 				"desc": "160% Stagger vs Enraged Behemoths"
 			}
@@ -877,31 +1141,43 @@
 		"levels": [
 			{
 				"id": 133,
+				"skillName": "Rage",
+				"skill": 23,
 				"level": 1,
 				"desc": "When under 30% health, deal 105% damage"
 			},
 			{
 				"id": 134,
+				"skillName": "Rage",
+				"skill": 23,
 				"level": 2,
 				"desc": "When under 30% health, deal 108% damage"
 			},
 			{
 				"id": 135,
+				"skillName": "Rage",
+				"skill": 23,
 				"level": 3,
 				"desc": "When under 30% health, deal 110% damage"
 			},
 			{
 				"id": 136,
+				"skillName": "Rage",
+				"skill": 23,
 				"level": 4,
 				"desc": "When under 50% health, deal 115% damage"
 			},
 			{
 				"id": 137,
+				"skillName": "Rage",
+				"skill": 23,
 				"level": 5,
 				"desc": "When under 50% health, deal 120% damage"
 			},
 			{
 				"id": 138,
+				"skillName": "Rage",
+				"skill": 23,
 				"level": 6,
 				"desc": "When under 50% health, deal 125% damage"
 			}
@@ -915,31 +1191,43 @@
 		"levels": [
 			{
 				"id": 139,
+				"skillName": "Ragehunter",
+				"skill": 24,
 				"level": 1,
 				"desc": "105% Damage vs Enraged Behemoths"
 			},
 			{
 				"id": 140,
+				"skillName": "Ragehunter",
+				"skill": 24,
 				"level": 2,
 				"desc": "110% Damage vs Enraged Behemoths"
 			},
 			{
 				"id": 141,
+				"skillName": "Ragehunter",
+				"skill": 24,
 				"level": 3,
 				"desc": "120% Damage vs Enraged Behemoths"
 			},
 			{
 				"id": 142,
+				"skillName": "Ragehunter",
+				"skill": 24,
 				"level": 4,
 				"desc": "130% Damage vs Enraged Behemoths"
 			},
 			{
 				"id": 143,
+				"skillName": "Ragehunter",
+				"skill": 24,
 				"level": 5,
 				"desc": "140% Damage vs Enraged Behemoths"
 			},
 			{
 				"id": 144,
+				"skillName": "Ragehunter",
+				"skill": 24,
 				"level": 6,
 				"desc": "150% Damage vs Enraged Behemoths"
 			}
@@ -953,33 +1241,45 @@
 		"levels": [
 			{
 				"id": 145,
+				"skillName": "Sharpened",
+				"skill": 25,
 				"level": 1,
 				"desc": "+5% Part Damage"
 			},
 			{
 				"id": 146,
+				"skillName": "Sharpened",
+				"skill": 25,
 				"level": 2,
 				"desc": "+10% Part Damage"
 			},
 			{
 				"id": 147,
+				"skillName": "Sharpened",
+				"skill": 25,
 				"level": 3,
 				"desc": "+15% Part Damage"
 			},
 			{
 				"id": 148,
+				"skillName": "Sharpened",
+				"skill": 25,
 				"level": 4,
 				"desc":
 					"+20% Part Damage</br>After dodging through an attack, the next weapon attack's Part Break Damage is increased by 50%"
 			},
 			{
 				"id": 149,
+				"skillName": "Sharpened",
+				"skill": 25,
 				"level": 5,
 				"desc":
 					"+25% Part Damage</br>After dodging through an attack, the next weapon attack's Part Break Damage is increased by 50%"
 			},
 			{
 				"id": 150,
+				"skillName": "Sharpened",
+				"skill": 25,
 				"level": 6,
 				"desc":
 					"+30% Part Damage</br>After dodging through an attack, the next weapon attack's Part Break Damage is increased by 100%"
@@ -994,33 +1294,45 @@
 		"levels": [
 			{
 				"id": 151,
+				"skillName": "Acidic",
+				"skill": 26,
 				"level": 1,
 				"desc": "Converts 30% of Part Damage to Wound Damage"
 			},
 			{
 				"id": 152,
+				"skillName": "Acidic",
+				"skill": 26,
 				"level": 2,
 				"desc": "Converts 40% of Part Damage to Wound Damage"
 			},
 			{
 				"id": 153,
+				"skillName": "Acidic",
+				"skill": 26,
 				"level": 3,
 				"desc": "Converts 50% of Part Damage to Wound Damage"
 			},
 			{
 				"id": 154,
+				"skillName": "Acidic",
+				"skill": 26,
 				"level": 4,
 				"desc":
 					"Converts 50% of Part Damage to Wound Damage</br>+10 % Part damage "
 			},
 			{
 				"id": 155,
+				"skillName": "Acidic",
+				"skill": 26,
 				"level": 5,
 				"desc":
 					"Converts 50% of Part Damage to Wound Damage</br>+15 % Part damage "
 			},
 			{
 				"id": 156,
+				"skillName": "Acidic",
+				"skill": 26,
 				"level": 6,
 				"desc":
 					"Converts 50% of Part Damage to Wound Damage</br>+20 % Part damage "
@@ -1035,33 +1347,45 @@
 		"levels": [
 			{
 				"id": 157,
+				"skillName": "Barbed",
+				"skill": 27,
 				"level": 1,
 				"desc": "+5 Wound Damage on Hit"
 			},
 			{
 				"id": 158,
+				"skillName": "Barbed",
+				"skill": 27,
 				"level": 2,
 				"desc": "+10 Wound Damage on Hit"
 			},
 			{
 				"id": 159,
+				"skillName": "Barbed",
+				"skill": 27,
 				"level": 3,
 				"desc": "+15 Wound Damage on Hit"
 			},
 			{
 				"id": 160,
+				"skillName": "Barbed",
+				"skill": 27,
 				"level": 4,
 				"desc":
 					"+20 Wound Damage on Hit</br>After dodging through an attack, the next attack's Expose Damage is increased by 200"
 			},
 			{
 				"id": 161,
+				"skillName": "Barbed",
+				"skill": 27,
 				"level": 5,
 				"desc":
 					"+30 Wound Damage on Hit</br>After dodging through an attack, the next attack's Expose Damage is increased by 200"
 			},
 			{
 				"id": 162,
+				"skillName": "Barbed",
+				"skill": 27,
 				"level": 6,
 				"desc":
 					"+40 Wound Damage on Hit</br>After dodging through an attack, the next attack's Expose Damage is increased by 400"
@@ -1076,33 +1400,45 @@
 		"levels": [
 			{
 				"id": 163,
+				"skillName": "Bladestorm",
+				"skill": 28,
 				"level": 1,
 				"desc": "+5 Part Damage on Hit"
 			},
 			{
 				"id": 164,
+				"skillName": "Bladestorm",
+				"skill": 28,
 				"level": 2,
 				"desc": "+10 Part Damage on Hit"
 			},
 			{
 				"id": 165,
+				"skillName": "Bladestorm",
+				"skill": 28,
 				"level": 3,
 				"desc": "+15 Part Damage on Hit"
 			},
 			{
 				"id": 166,
+				"skillName": "Bladestorm",
+				"skill": 28,
 				"level": 4,
 				"desc":
 					"+20 Part Damage on Hit</br>+200 Part Damage after dodging through an attack"
 			},
 			{
 				"id": 167,
+				"skillName": "Bladestorm",
+				"skill": 28,
 				"level": 5,
 				"desc":
 					"+30 Part Damage on Hit</br>+200 Part Damage after dodging through an attack"
 			},
 			{
 				"id": 168,
+				"skillName": "Bladestorm",
+				"skill": 28,
 				"level": 6,
 				"desc":
 					"+40 Part Damage on Hit</br>+400 Part Damage after dodging through an attack"
@@ -1117,31 +1453,43 @@
 		"levels": [
 			{
 				"id": 169,
+				"skillName": "Cunning",
+				"skill": 29,
 				"level": 1,
 				"desc": "1% chance to deal double damage"
 			},
 			{
 				"id": 170,
+				"skillName": "Cunning",
+				"skill": 29,
 				"level": 2,
 				"desc": "2% chance to deal double damage"
 			},
 			{
 				"id": 171,
+				"skillName": "Cunning",
+				"skill": 29,
 				"level": 3,
 				"desc": "3% chance to deal double damage"
 			},
 			{
 				"id": 172,
+				"skillName": "Cunning",
+				"skill": 29,
 				"level": 4,
 				"desc": "5% chance to deal double damage"
 			},
 			{
 				"id": 173,
+				"skillName": "Cunning",
+				"skill": 29,
 				"level": 5,
 				"desc": "7% chance to deal double damage"
 			},
 			{
 				"id": 174,
+				"skillName": "Cunning",
+				"skill": 29,
 				"level": 6,
 				"desc": "10% chance to deal double damage"
 			}
@@ -1156,31 +1504,43 @@
 		"levels": [
 			{
 				"id": 175,
+				"skillName": "Evasive Fury",
+				"skill": 30,
 				"level": 1,
 				"desc": "4% Attack Speed for 8 seconds after dodging through an attack"
 			},
 			{
 				"id": 176,
+				"skillName": "Evasive Fury",
+				"skill": 30,
 				"level": 2,
 				"desc": "8% Attack Speed for 8 seconds after dodging through an attack"
 			},
 			{
 				"id": 177,
+				"skillName": "Evasive Fury",
+				"skill": 30,
 				"level": 3,
 				"desc": "12% Attack Speed for 8 seconds after dodging through an attack"
 			},
 			{
 				"id": 178,
+				"skillName": "Evasive Fury",
+				"skill": 30,
 				"level": 4,
 				"desc": "16% Attack Speed for 8 seconds after dodging through an attack"
 			},
 			{
 				"id": 179,
+				"skillName": "Evasive Fury",
+				"skill": 30,
 				"level": 5,
 				"desc": "20% Attack Speed for 8 seconds after dodging through an attack"
 			},
 			{
 				"id": 180,
+				"skillName": "Evasive Fury",
+				"skill": 30,
 				"level": 6,
 				"desc":
 					"25% Attack Speed for 16 seconds after dodging through an attack"
@@ -1195,31 +1555,43 @@
 		"levels": [
 			{
 				"id": 181,
+				"skillName": "Merciless",
+				"skill": 31,
 				"level": 1,
 				"desc": "+25 Wound Damage vs Staggered Behemoths"
 			},
 			{
 				"id": 182,
+				"skillName": "Merciless",
+				"skill": 31,
 				"level": 2,
 				"desc": "+40 Wound Damage vs Staggered Behemoths"
 			},
 			{
 				"id": 183,
+				"skillName": "Merciless",
+				"skill": 31,
 				"level": 3,
 				"desc": "+55 Wound Damage vs Staggered Behemoths"
 			},
 			{
 				"id": 184,
+				"skillName": "Merciless",
+				"skill": 31,
 				"level": 4,
 				"desc": "+70 Wound Damage vs Staggered Behemoths"
 			},
 			{
 				"id": 185,
+				"skillName": "Merciless",
+				"skill": 31,
 				"level": 5,
 				"desc": "+85 Wound Damage vs Staggered Behemoths"
 			},
 			{
 				"id": 186,
+				"skillName": "Merciless",
+				"skill": 31,
 				"level": 6,
 				"desc": "+100 Wound Damage vs Staggered Behemoths"
 			}
@@ -1233,31 +1605,43 @@
 		"levels": [
 			{
 				"id": 187,
+				"skillName": "Savagery",
+				"skill": 32,
 				"level": 1,
 				"desc": "120% Damage vs Wounded Parts"
 			},
 			{
 				"id": 188,
+				"skillName": "Savagery",
+				"skill": 32,
 				"level": 2,
 				"desc": "130% Damage vs Wounded Parts"
 			},
 			{
 				"id": 189,
+				"skillName": "Savagery",
+				"skill": 32,
 				"level": 3,
 				"desc": "140% Damage vs Wounded Parts"
 			},
 			{
 				"id": 190,
+				"skillName": "Savagery",
+				"skill": 32,
 				"level": 4,
 				"desc": "160% Damage vs Wounded Parts"
 			},
 			{
 				"id": 191,
+				"skillName": "Savagery",
+				"skill": 32,
 				"level": 5,
 				"desc": "180% Damage vs Wounded Parts"
 			},
 			{
 				"id": 192,
+				"skillName": "Savagery",
+				"skill": 32,
 				"level": 6,
 				"desc": "200% Damage vs Wounded Parts"
 			}
@@ -1271,31 +1655,43 @@
 		"levels": [
 			{
 				"id": 193,
+				"skillName": "Wild Frenzy",
+				"skill": 33,
 				"level": 1,
 				"desc": "When under 30% health, increase attack speed by 5%"
 			},
 			{
 				"id": 194,
+				"skillName": "Wild Frenzy",
+				"skill": 33,
 				"level": 2,
 				"desc": "When under 30% health, increase attack speed by 8%"
 			},
 			{
 				"id": 195,
+				"skillName": "Wild Frenzy",
+				"skill": 33,
 				"level": 3,
 				"desc": "When under 30% health, increase attack speed by 12%"
 			},
 			{
 				"id": 196,
+				"skillName": "Wild Frenzy",
+				"skill": 33,
 				"level": 4,
 				"desc": "When under 50% health, increase attack speed by 16%"
 			},
 			{
 				"id": 197,
+				"skillName": "Wild Frenzy",
+				"skill": 33,
 				"level": 5,
 				"desc": "When under 50% health, increase attack speed by 20%"
 			},
 			{
 				"id": 198,
+				"skillName": "Wild Frenzy",
+				"skill": 33,
 				"level": 6,
 				"desc": "When under 50% health, increase attack speed by 25%"
 			}
@@ -1310,33 +1706,45 @@
 		"levels": [
 			{
 				"id": 199,
+				"skillName": "Weighted Strikes",
+				"skill": 34,
 				"level": 1,
 				"desc": "+5 Stagger Damage on Hit"
 			},
 			{
 				"id": 200,
+				"skillName": "Weighted Strikes",
+				"skill": 34,
 				"level": 2,
 				"desc": "+10 Stagger Damage on Hit"
 			},
 			{
 				"id": 201,
+				"skillName": "Weighted Strikes",
+				"skill": 34,
 				"level": 3,
 				"desc": "+15 Stagger Damage on Hit"
 			},
 			{
 				"id": 202,
+				"skillName": "Weighted Strikes",
+				"skill": 34,
 				"level": 4,
 				"desc":
 					"+20 Stagger Damage on Hit +200 Stagger after dodging through an attack"
 			},
 			{
 				"id": 203,
+				"skillName": "Weighted Strikes",
+				"skill": 34,
 				"level": 5,
 				"desc":
 					"+30 Stagger Damage on Hit +200 Stagger after dodging through an attack"
 			},
 			{
 				"id": 204,
+				"skillName": "Weighted Strikes",
+				"skill": 34,
 				"level": 6,
 				"desc":
 					"+40 Stagger Damage on Hit +400 Stagger after dodging through an attack</br>Ranged swings and missiles interrupt unstable Behemoth attacks"
@@ -1351,36 +1759,48 @@
 		"levels": [
 			{
 				"id": 205,
+				"skillName": "Aetherborne",
+				"skill": 35,
 				"level": 1,
 				"desc":
 					"25% chance not to consume an Aether Vent charge on use.</br>25 additional Aether Vent healing."
 			},
 			{
 				"id": 206,
+				"skillName": "Aetherborne",
+				"skill": 35,
 				"level": 2,
 				"desc":
 					"25% chance not to consume an Aether Vent charge on use.</br>50 additional Aether Vent healing."
 			},
 			{
 				"id": 207,
+				"skillName": "Aetherborne",
+				"skill": 35,
 				"level": 3,
 				"desc":
 					"25% chance not to consume an Aether Vent charge on use.</br>75 additional Aether Vent healing."
 			},
 			{
 				"id": 208,
+				"skillName": "Aetherborne",
+				"skill": 35,
 				"level": 4,
 				"desc":
 					"25% chance not to consume an Aether Vent charge on use.</br>100 additional Aether Vent healing."
 			},
 			{
 				"id": 209,
+				"skillName": "Aetherborne",
+				"skill": 35,
 				"level": 5,
 				"desc":
 					"25% chance not to consume an Aether Vent charge on use.</br>150 additional Aether Vent healing."
 			},
 			{
 				"id": 210,
+				"skillName": "Aetherborne",
+				"skill": 35,
 				"level": 6,
 				"desc":
 					"25% chance not to consume an Aether Vent charge on use.</br>200 additional Aether Vent healing."
@@ -1395,31 +1815,43 @@
 		"levels": [
 			{
 				"id": 211,
+				"skillName": "Aetheric Attunement",
+				"skill": 36,
 				"level": 1,
 				"desc": "+10% Lantern Charge"
 			},
 			{
 				"id": 212,
+				"skillName": "Aetheric Attunement",
+				"skill": 36,
 				"level": 2,
 				"desc": "+20% Lantern Charge"
 			},
 			{
 				"id": 213,
+				"skillName": "Aetheric Attunement",
+				"skill": 36,
 				"level": 3,
 				"desc": "+40% Lantern Charge"
 			},
 			{
 				"id": 214,
+				"skillName": "Aetheric Attunement",
+				"skill": 36,
 				"level": 4,
 				"desc": "+60% Lantern Charge"
 			},
 			{
 				"id": 215,
+				"skillName": "Aetheric Attunement",
+				"skill": 36,
 				"level": 5,
 				"desc": "+80% Lantern Charge"
 			},
 			{
 				"id": 216,
+				"skillName": "Aetheric Attunement",
+				"skill": 36,
 				"level": 6,
 				"desc": "+100% Lantern Charge"
 			}
@@ -1433,31 +1865,43 @@
 		"levels": [
 			{
 				"id": 217,
+				"skillName": "Aetheric Frenzy",
+				"skill": 37,
 				"level": 1,
 				"desc": "+1 Lantern Charge on Hit"
 			},
 			{
 				"id": 218,
+				"skillName": "Aetheric Frenzy",
+				"skill": 37,
 				"level": 2,
 				"desc": "+2 Lantern Charge on Hit"
 			},
 			{
 				"id": 219,
+				"skillName": "Aetheric Frenzy",
+				"skill": 37,
 				"level": 3,
 				"desc": "+4 Lantern Charge on Hit"
 			},
 			{
 				"id": 220,
+				"skillName": "Aetheric Frenzy",
+				"skill": 37,
 				"level": 4,
 				"desc": "+6 Lantern Charge on Hit"
 			},
 			{
 				"id": 221,
+				"skillName": "Aetheric Frenzy",
+				"skill": 37,
 				"level": 5,
 				"desc": "+8 Lantern Charge on Hit"
 			},
 			{
 				"id": 222,
+				"skillName": "Aetheric Frenzy",
+				"skill": 37,
 				"level": 6,
 				"desc": "+10 Lantern Charge on Hit"
 			}
@@ -1471,31 +1915,43 @@
 		"levels": [
 			{
 				"id": 223,
+				"skillName": "Energized",
+				"skill": 38,
 				"level": 1,
 				"desc": "+10% Weapon Charge rate"
 			},
 			{
 				"id": 224,
+				"skillName": "Energized",
+				"skill": 38,
 				"level": 2,
 				"desc": "+15% Weapon Charge rate"
 			},
 			{
 				"id": 225,
+				"skillName": "Energized",
+				"skill": 38,
 				"level": 3,
 				"desc": "+20% Weapon Charge rate"
 			},
 			{
 				"id": 226,
+				"skillName": "Energized",
+				"skill": 38,
 				"level": 4,
 				"desc": "+25% Weapon Charge rate"
 			},
 			{
 				"id": 227,
+				"skillName": "Energized",
+				"skill": 38,
 				"level": 5,
 				"desc": "+30% Weapon Charge rate"
 			},
 			{
 				"id": 228,
+				"skillName": "Energized",
+				"skill": 38,
 				"level": 6,
 				"desc": "+40% Weapon Charge rate"
 			}
@@ -1509,33 +1965,45 @@
 		"levels": [
 			{
 				"id": 229,
+				"skillName": "Medic",
+				"skill": 39,
 				"level": 1,
 				"desc": "When reviving an ally, they are healed an additional 10%"
 			},
 			{
 				"id": 230,
+				"skillName": "Medic",
+				"skill": 39,
 				"level": 2,
 				"desc": "When reviving an ally, they are healed an additional 20%"
 			},
 			{
 				"id": 231,
+				"skillName": "Medic",
+				"skill": 39,
 				"level": 3,
 				"desc": "When reviving an ally, they are healed an additional 30%"
 			},
 			{
 				"id": 232,
+				"skillName": "Medic",
+				"skill": 39,
 				"level": 4,
 				"desc":
 					"When reviving an ally, they are healed an additional 30%</br>Increases Revive Speed by 66%"
 			},
 			{
 				"id": 233,
+				"skillName": "Medic",
+				"skill": 39,
 				"level": 5,
 				"desc":
 					"When reviving an ally, they are healed an additional 50%</br>Increases Revive Speed by 66%"
 			},
 			{
 				"id": 234,
+				"skillName": "Medic",
+				"skill": 39,
 				"level": 6,
 				"desc":
 					"When reviving an ally, they are healed an additional 100%</br>Increases Revive Speed by 66%</br>Grants a 400 health shield for 20 seconds after reviving an ally."
@@ -1550,31 +2018,43 @@
 		"levels": [
 			{
 				"id": 235,
+				"skillName": "Stunning Vigour",
+				"skill": 40,
 				"level": 1,
 				"desc": "Heal for 50 whenever a Behemoth is Staggered"
 			},
 			{
 				"id": 236,
+				"skillName": "Stunning Vigour",
+				"skill": 40,
 				"level": 2,
 				"desc": "Heal for 75 whenever a Behemoth is Staggered"
 			},
 			{
 				"id": 237,
+				"skillName": "Stunning Vigour",
+				"skill": 40,
 				"level": 3,
 				"desc": "Heal for 100 whenever a Behemoth is Staggered"
 			},
 			{
 				"id": 238,
+				"skillName": "Stunning Vigour",
+				"skill": 40,
 				"level": 4,
 				"desc": "Heal for 125 whenever a Behemoth is Staggered"
 			},
 			{
 				"id": 239,
+				"skillName": "Stunning Vigour",
+				"skill": 40,
 				"level": 5,
 				"desc": "Heal for 150 whenever a Behemoth is Staggered"
 			},
 			{
 				"id": 240,
+				"skillName": "Stunning Vigour",
+				"skill": 40,
 				"level": 6,
 				"desc": "Heal for 200 whenever a Behemoth is Staggered"
 			}
@@ -1588,31 +2068,43 @@
 		"levels": [
 			{
 				"id": 241,
+				"skillName": "Vampiric",
+				"skill": 41,
 				"level": 1,
 				"desc": "Heal for 50 whenever a Behemoth is Wounded"
 			},
 			{
 				"id": 242,
+				"skillName": "Vampiric",
+				"skill": 41,
 				"level": 2,
 				"desc": "Heal for 75 whenever a Behemoth is Wounded"
 			},
 			{
 				"id": 243,
+				"skillName": "Vampiric",
+				"skill": 41,
 				"level": 3,
 				"desc": "Heal for 100 whenever a Behemoth is Wounded"
 			},
 			{
 				"id": 244,
+				"skillName": "Vampiric",
+				"skill": 41,
 				"level": 4,
 				"desc": "Heal for 125 whenever a Behemoth is Wounded"
 			},
 			{
 				"id": 245,
+				"skillName": "Vampiric",
+				"skill": 41,
 				"level": 5,
 				"desc": "Heal for 150 whenever a Behemoth is Wounded"
 			},
 			{
 				"id": 246,
+				"skillName": "Vampiric",
+				"skill": 41,
 				"level": 6,
 				"desc": "Heal for 200 whenever a Behemoth is Wounded"
 			}

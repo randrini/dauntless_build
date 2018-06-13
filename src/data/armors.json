@@ -2,17 +2,17 @@
 	{
 		"id": 1,
 		"name": "Recruit",
-		"tier": 0,
+		"tier": 1,
 		"location": "The Sheltered Frontier",
 		"pieces": [
 			{
 				"id": 1,
 				"name": "Recruit's Mask",
 				"type": "head",
-				"tier": 0,
+				"tier": 1,
 				"location": "The Sheltered Frontier",
 				"perks": [{}],
-				"slots": "",
+				"cellSlot": {},
 				"crafting": [
 					{ "level0": [{}] },
 					{ "level1": [{ "quant:": 1, "item": "Armour Upgrade Token" }] }
@@ -30,33 +30,259 @@
 	{
 		"id": 2,
 		"name": "Gnasher",
-		"tier": 1,
+		"tier": 2,
 		"location": "The Monstrous Verge",
 		"pieces": [
 			{
 				"id": 5,
-				"name": "Recruit's Mask",
+				"name": "Gnasher Touque",
 				"type": "head",
-				"tier": 1,
+				"tier": 2,
 				"location": "The Monstrous Verge",
+				"armorSet": 2,
 				"perks": [{}],
-				"slots": "",
-				"crafting": [
-					{ "level0": [{}] },
-					{ "level1": [{ "quant:": 1, "item": "Armour Upgrade Token" }] }
-				],
-				"assets": {},
-				"armorSet": 1
+				"cellSlot": "Utility",
+				"crafting": [],
+				"assets": {}
 			},
 			{
-				"id": 6
+				"id": 6,
+				"name": "Gnasher Cloak",
+				"type": "chest",
+				"tier": 2,
+				"location": "The Monstrous Verge",
+				"armorSet": 2,
+				"perks": [
+					{
+						"id": 49,
+						"skillName": "Tough",
+						"skill": 9,
+						"level": 1,
+						"desc": "Increases Max Health by 50"
+					}
+				],
+				"cellSlot": "Defence",
+				"crafting": [],
+				"assets": {}
 			},
-			{ "id": 7 },
-			{ "id": 8 }
+			{
+				"id": 7,
+				"name": "Gnasher Gloves",
+				"type": "arms",
+				"tier": 2,
+				"location": "The Monstrous Verge",
+				"armorSet": 2,
+				"perks": [
+					{
+						"id": 139,
+						"skillName": "Ragehunter",
+						"skill": 24,
+						"level": 1,
+						"desc": "105% Damage vs Enraged Behemoths"
+					}
+				],
+				"cellSlot": "Defence",
+				"crafting": [],
+				"assets": {}
+			},
+			{
+				"id": 8,
+				"name": "Gnasher Boots",
+				"type": "legs",
+				"tier": 2,
+				"location": "The Monstrous Verge",
+				"armorSet": 2,
+				"perks": [
+					{
+						"id": 139,
+						"skillName": "Ragehunter",
+						"skill": 24,
+						"level": 1,
+						"desc": "105% Damage vs Enraged Behemoths"
+					}
+				],
+				"cellSlot": "Technique",
+				"crafting": [],
+				"assets": {}
+			}
 		]
 	},
-	{},
-	{},
+	{
+		"id": 3,
+		"name": "Shrike",
+		"tier": 2,
+		"location": "The Monstrous Verge",
+		"pieces": [
+			{
+				"id": 9,
+				"name": "Shrike Helm",
+				"type": "head",
+				"tier": 2,
+				"location": "The Monstrous Verge",
+				"armorSet": 3,
+				"perks": [
+					{
+						"id": 79,
+						"skillName": "Evasion",
+						"skill": 14,
+						"level": 1,
+						"desc": "Increases Dodge invulnerability windows by 7%"
+					}
+				],
+				"cellSlot": "Technique",
+				"crafting": [],
+				"assets": {}
+			},
+			{
+				"id": 10,
+				"name": "Shrike Plate",
+				"type": "chest",
+				"tier": 2,
+				"location": "The Monstrous Verge",
+				"armorSet": 3,
+				"perks": [
+					{
+						"id": 67,
+						"skillName": "Conditioning",
+						"skill": 12,
+						"level": 1,
+						"desc": "+5 Stamina Regeneration"
+					}
+				],
+				"cellSlot": "Mobility",
+				"crafting": [],
+				"assets": {}
+			},
+			{
+				"id": 11,
+				"name": "Shrike Gauntlets",
+				"type": "arms",
+				"tier": 2,
+				"location": "The Monstrous Verge",
+				"armorSet": 3,
+				"perks": [
+					{
+						"id": 67,
+						"skillName": "Conditioning",
+						"skill": 12,
+						"level": 1,
+						"desc": "+5 Stamina Regeneration"
+					}
+				],
+				"cellSlot": "Mobility",
+				"crafting": [],
+				"assets": {}
+			},
+			{
+				"id": 12,
+				"name": "Shrike Greaves",
+				"type": "legs",
+				"tier": 2,
+				"location": "The Monstrous Verge",
+				"armorSet": 3,
+				"perks": [
+					{
+						"id": 79,
+						"skillName": "Evasion",
+						"skill": 14,
+						"level": 1,
+						"desc": "Increases Dodge invulnerability windows by 7%"
+					}
+				],
+				"cellSlot": "Mobility",
+				"crafting": [],
+				"assets": {}
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "Quillshot",
+		"tier": 2,
+		"location": "The Monstrous Verge",
+		"pieces": [
+			{
+				"id": 13,
+				"name": "Quillmask",
+				"type": "head",
+				"tier": 2,
+				"location": "The Monstrous Verge",
+				"armorSet": 4,
+				"cellSlot": "Utility",
+				"perks": [
+					{
+						"id": 163,
+						"skillName": "Bladestorm",
+						"skill": 28,
+						"level": 1,
+						"desc": "+5 Part Damage on Hit"
+					}
+				],
+				"crafting": [],
+				"assets": {}
+			},
+			{
+				"id": 14,
+				"name": "Quillspike Jacket",
+				"type": "chest",
+				"tier": 2,
+				"location": "The Monstrous Verge",
+				"armorSet": 4,
+				"cellSlot": "Technique",
+				"perks": [
+					{
+						"id": 145,
+						"skillName": "Sharpened",
+						"skill": 25,
+						"level": 1,
+						"desc": "+5% Part Damage"
+					}
+				],
+				"crafting": [],
+				"assets": {}
+			},
+			{
+				"id": 15,
+				"name": "Quillspike Grips",
+				"type": "arms",
+				"tier": 2,
+				"location": "The Monstrous Verge",
+				"armorSet": 4,
+				"cellSlot": "Technique",
+				"perks": [
+					{
+						"id": 163,
+						"skillName": "Bladestorm",
+						"skill": 28,
+						"level": 1,
+						"desc": "+5 Part Damage on Hit"
+					}
+				],
+				"crafting": [],
+				"assets": {}
+			},
+			{
+				"id": 16,
+				"name": "Quillboots",
+				"type": "legs",
+				"tier": 2,
+				"location": "The Monstrous Verge",
+				"armorSet": 4,
+				"cellSlot": "Utility",
+				"perks": [
+					{
+						"id": 145,
+						"skillName": "Sharpened",
+						"skill": 25,
+						"level": 1,
+						"desc": "+5% Part Damage"
+					}
+				],
+				"crafting": [],
+				"assets": {}
+			}
+		]
+	},
 	{},
 	{},
 	{},
