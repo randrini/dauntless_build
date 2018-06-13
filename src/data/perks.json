@@ -1,0 +1,1621 @@
+[
+	{
+		"id": 1,
+		"name": "Assassin`s Vigor",
+		"desc": "Grants Health after breaking a Behemoth part.",
+		"type": "Defence",
+		"levels": [
+			{
+				"id": 1,
+				"slug": "assassin-vigor-level-1",
+				"level": 1,
+				"desc": "Heal 50 when you break a part"
+			},
+			{
+				"id": 2,
+				"slug": "assassin-vigor-level-2",
+				"level": 2,
+				"desc": "Heal 100 when you break a part"
+			},
+			{
+				"id": 3,
+				"slug": "assassin-vigor-level-3",
+				"level": 3,
+				"desc": "Heal 150 when you break a part"
+			},
+			{
+				"id": 4,
+				"slug": "assassin-vigor-level-4",
+				"level": 4,
+				"desc": "Heal 200 when you break a part"
+			},
+			{
+				"id": 5,
+				"slug": "assassin-vigor-level-5",
+				"level": 5,
+				"desc": "Heal 250 when you break a part"
+			},
+			{
+				"id": 6,
+				"slug": "assassin-vigor-level-6",
+				"level": 6,
+				"desc": "Heal 300 when you break a part"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Bloodless",
+		"desc": "Protects against Wounded and Crippling Wounds statuses.",
+		"type": "Defence",
+		"levels": [
+			{
+				"id": 7,
+				"level": 1,
+				"desc": "Reduces duration of Wounded status by 50%"
+			},
+			{
+				"id": 8,
+				"level": 1,
+				"desc": "Reduces duration of Wounded status by 80%"
+			},
+			{
+				"id": 9,
+				"level": 1,
+				"desc": "Immune to Wounded status"
+			},
+			{
+				"id": 10,
+				"level": 1,
+				"desc":
+					"Reduces effectiveness of Crippling Wounded status by 50%</br>Immune to Wounded status"
+			},
+			{
+				"id": 11,
+				"level": 1,
+				"desc":
+					"Reduces effectiveness of Crippling Wounded status by 80%</br>Immune to Wounded status"
+			},
+			{
+				"id": 12,
+				"level": 1,
+				"desc": "Immune to Wounded status</br>Immune to Crippling Wound status"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "Fireproof",
+		"desc": "Protects against being set on fire.",
+		"type": "Defence",
+		"levels": [
+			{
+				"id": 13,
+				"level": 1,
+				"desc": "Reduces duration of On Fire status by 10%"
+			},
+			{
+				"id": 14,
+				"level": 2,
+				"desc": "Reduces duration of On Fire status by 20%"
+			},
+			{
+				"id": 15,
+				"level": 3,
+				"desc": "Reduces duration of On Fire status by 40%"
+			},
+			{
+				"id": 16,
+				"level": 4,
+				"desc": "Reduces duration of On Fire status by 60%"
+			},
+			{
+				"id": 17,
+				"level": 5,
+				"desc": "Reduces duration of On Fire status by 80%"
+			},
+			{
+				"level": 6,
+				"desc": "Immune to being set on fire.",
+				"id": 18
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "Fortress",
+		"desc": "Grants a small shield after avoiding damage for a short time.",
+		"type": "Defence",
+		"levels": [
+			{
+				"level": 1,
+				"desc": "Grants a 10 health shield after not getting hit for 10s",
+				"id": 19
+			},
+			{
+				"level": 2,
+				"desc": "Grants a 20 health shield after not getting hit for 10s",
+				"id": 20
+			},
+			{
+				"level": 3,
+				"desc": "Grants a 40 health shield after not getting hit for 10s",
+				"id": 21
+			},
+			{
+				"level": 4,
+				"desc": "Grants a 60 health shield after not getting hit for 10s",
+				"id": 22
+			},
+			{
+				"level": 5,
+				"desc": "Grants a 80 health shield after not getting hit for 10s",
+				"id": 23
+			},
+			{
+				"level": 6,
+				"desc": "Grants a 100 health shield after not getting hit for 10s",
+				"id": 24
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "Insulated",
+		"desc":
+			"Protects against Shocked status effect and allows you to attack electric shields.",
+		"type": "Defence",
+		"levels": [
+			{
+				"id": 25,
+				"level": 1,
+				"desc": "Reduces duration of Shocked status by 25%"
+			},
+			{
+				"id": 26,
+				"level": 2,
+				"desc": "Reduces duration of Shocked status by 50%"
+			},
+			{
+				"id": 27,
+				"level": 3,
+				"desc": "Reduces duration of Shocked status by 75%"
+			},
+			{
+				"id": 28,
+				"level": 4,
+				"desc":
+					"Reduces duration of Shocked status by 75%</br>Reduces knockback and damage of hitting electrified shields."
+			},
+			{
+				"id": 29,
+				"level": 5,
+				"desc":
+					"Reduces duration of Shocked status by 75%</br>Prevents knockback and damage of hitting electrified shields."
+			},
+			{
+				"id": 30,
+				"level": 6,
+				"desc":
+					"Immune to Shocked status</br>Prevents knockback and damage of hitting electrified shields."
+			}
+		]
+	},
+	{
+		"id": 6,
+		"name": "Nine Lives",
+		"desc":
+			"Grants a chance to reduce damage, and later the ability to cheat death.",
+		"type": "Defence",
+		"levels": [
+			{
+				"id": 31,
+				"level": 1,
+				"desc": "+5% chance to halve incoming damage"
+			},
+			{
+				"id": 32,
+				"level": 2,
+				"desc": "+8% chance to halve incoming damage"
+			},
+			{
+				"id": 33,
+				"level": 3,
+				"desc": "+12% chance to halve incoming damage"
+			},
+			{
+				"id": 34,
+				"level": 4,
+				"desc":
+					"+12% chance to halve incoming damage</br>The first time you would be knocked out, stay up and heal for 400"
+			},
+			{
+				"id": 35,
+				"level": 5,
+				"desc":
+					"+16% chance to halve incoming damage</br>The first time you would be knocked out, stay up and heal for 400"
+			},
+			{
+				"id": 36,
+				"level": 6,
+				"desc":
+					"+20% chance to halve incoming damage</br>The first time you would be knocked out, stay up and heal for 400, and become empowered for 10 seconds"
+			}
+		]
+	},
+	{
+		"id": 7,
+		"name": "Shellshock Resist",
+		"desc":
+			"Protects against the explosion damage and status effect Shellshock.",
+		"type": "Defence",
+		"levels": [
+			{
+				"id": 37,
+				"level": 1,
+				"desc":
+					"Reduces Shell Shocked explosion damage and status effect duration by 10%"
+			},
+			{
+				"id": 38,
+				"level": 2,
+				"desc":
+					"Reduces Shell Shocked explosion damage and status effect duration by 20%"
+			},
+			{
+				"id": 39,
+				"level": 3,
+				"desc":
+					"Reduces Shell Shocked explosion damage and status effect duration by 40%"
+			},
+			{
+				"id": 40,
+				"level": 4,
+				"desc":
+					"Reduces Shell Shocked explosion damage and status effect duration by 60%"
+			},
+			{
+				"id": 41,
+				"level": 5,
+				"desc":
+					"Reduces Shell Shocked explosion damage and status effect duration by 80%"
+			},
+			{
+				"id": 42,
+				"level": 6,
+				"desc": "Immune to Shell Shocked explosion damage and status effect"
+			}
+		]
+	},
+	{
+		"id": 8,
+		"name": "Sturdy",
+		"desc": "Prevents being staggered on a cooldown.",
+		"type": "Defence",
+		"levels": [
+			{
+				"id": 43,
+				"level": 1,
+				"desc": "Prevents you from being staggered (120 second cooldown)"
+			},
+			{
+				"id": 44,
+				"level": 2,
+				"desc": "Prevents you from being staggered (100 second cooldown)"
+			},
+			{
+				"id": 45,
+				"level": 3,
+				"desc": "Prevents you from being staggered (80 second cooldown)"
+			},
+			{
+				"id": 46,
+				"level": 4,
+				"desc": "Prevents you from being staggered (60 second cooldown)"
+			},
+			{
+				"id": 47,
+				"level": 5,
+				"desc": "Prevents you from being staggered (40 second cooldown)"
+			},
+			{
+				"id": 48,
+				"level": 6,
+				"desc": "Prevents you from being staggered (15 second cooldown)"
+			}
+		]
+	},
+	{
+		"id": 9,
+		"name": "Tough",
+		"desc": "Increases Max Health.",
+		"type": "Defence",
+		"levels": [
+			{
+				"id": 49,
+				"level": 1,
+				"desc": "Increases Max Health by 50"
+			},
+			{
+				"id": 50,
+				"level": 2,
+				"desc": "Increases Max Health by 100"
+			},
+			{
+				"id": 51,
+				"level": 3,
+				"desc": "Increases Max Health by 150"
+			},
+			{
+				"id": 52,
+				"level": 4,
+				"desc": "Increases Max Health by 250"
+			},
+			{
+				"id": 53,
+				"level": 5,
+				"desc": "Increases Max Health by 350"
+			},
+			{
+				"id": 54,
+				"level": 6,
+				"desc": "Increases Max Health by 500"
+			}
+		]
+	},
+	{
+		"id": 10,
+		"name": "Warmth",
+		"desc": "Protects against Chilled and Frozen status effects.",
+		"type": "Defence",
+		"levels": [
+			{
+				"id": 55,
+				"level": 1,
+				"desc": "Reduces duration of Frozen status by 30%"
+			},
+			{
+				"id": 56,
+				"level": 2,
+				"desc": "Reduces duration of Frozen status by 60%"
+			},
+			{
+				"id": 57,
+				"level": 3,
+				"desc": "Immune to being Frozen"
+			},
+			{
+				"id": 58,
+				"level": 4,
+				"desc":
+					"Reduces duration of Chilled status by 30%</br>Immune to being Frozen"
+			},
+			{
+				"id": 59,
+				"level": 5,
+				"desc":
+					"Reduces duration of Chilled status by 60%</br>Immune to being Frozen"
+			},
+			{
+				"id": 60,
+				"level": 6,
+				"desc": "Immune to being Frozen</br>Immune to being Chilled"
+			}
+		]
+	},
+	{
+		"id": 11,
+		"name": "Agility",
+		"desc": "Reduces the stamina cost of dodging.",
+		"type": "Mobility",
+		"levels": [
+			{
+				"id": 61,
+				"level": 1,
+				"desc": "-20% Dodge Roll Stamina Cost"
+			},
+			{
+				"id": 62,
+				"level": 2,
+				"desc": "-30% Dodge Roll Stamina Cost"
+			},
+			{
+				"id": 63,
+				"level": 3,
+				"desc": "-40% Dodge Roll Stamina Cost"
+			},
+			{
+				"id": 64,
+				"level": 4,
+				"desc": "-55% Dodge Roll Stamina Cost"
+			},
+			{
+				"id": 65,
+				"level": 5,
+				"desc": "-10% Dodge Roll Stamina Cost"
+			},
+			{
+				"id": 66,
+				"level": 6,
+				"desc": "-70% Dodge Roll Stamina Cost"
+			}
+		]
+	},
+	{
+		"id": 12,
+		"name": "Conditioning",
+		"desc": "Increases Stamina Regen.",
+		"type": "Mobility",
+		"levels": [
+			{
+				"id": 67,
+				"level": 1,
+				"desc": "+5 Stamina Regeneration"
+			},
+			{
+				"id": 68,
+				"level": 2,
+				"desc": "+10 Stamina Regeneration"
+			},
+			{
+				"id": 69,
+				"level": 3,
+				"desc": "+15 Stamina Regeneration"
+			},
+			{
+				"id": 70,
+				"level": 4,
+				"desc": "+20 Stamina Regeneration"
+			},
+			{
+				"id": 71,
+				"level": 5,
+				"desc": "+25 Stamina Regeneration"
+			},
+			{
+				"id": 72,
+				"level": 6,
+				"desc": "+30 Stamina Regeneration"
+			}
+		]
+	},
+	{
+		"id": 13,
+		"name": "Endurance",
+		"desc": "Increases Max Stamina.",
+		"type": "Mobility",
+		"levels": [
+			{
+				"id": 73,
+				"level": 1,
+				"desc": "Increases Max Stamina by 10"
+			},
+			{
+				"id": 74,
+				"level": 2,
+				"desc": "Increases Max Stamina by 20"
+			},
+			{
+				"id": 75,
+				"level": 3,
+				"desc": "Increases Max Stamina by 40"
+			},
+			{
+				"id": 76,
+				"level": 4,
+				"desc": "Increases Max Stamina by 60"
+			},
+			{
+				"id": 77,
+				"level": 5,
+				"desc": "Increases Max Stamina by 80"
+			},
+			{
+				"id": 78,
+				"level": 6,
+				"desc": "Increases Max Stamina by 100"
+			}
+		]
+	},
+	{
+		"id": 14,
+		"name": "Evasion",
+		"desc": "Increases the time you are invincible when dodging.",
+		"type": "Mobility",
+		"levels": [
+			{
+				"id": 79,
+				"level": 1,
+				"desc": "Increases Dodge invulnerability windows by 7%"
+			},
+			{
+				"id": 80,
+				"level": 2,
+				"desc": "Increases Dodge invulnerability windows by 14%"
+			},
+			{
+				"id": 81,
+				"level": 3,
+				"desc": "Increases Dodge invulnerability windows by 21%"
+			},
+			{
+				"id": 82,
+				"level": 4,
+				"desc": "Increases Dodge invulnerability windows by 28%"
+			},
+			{
+				"id": 83,
+				"level": 5,
+				"desc": "Increases Dodge invulnerability windows by 35%"
+			},
+			{
+				"id": 84,
+				"level": 6,
+				"desc": "Increases Dodge invulnerability windows by 42%"
+			}
+		]
+	},
+	{
+		"id": 15,
+		"name": "Fleet Footed",
+		"desc": "Temporarily increases Movement Speed after a dodge.",
+		"type": "Mobility",
+		"levels": [
+			{
+				"id": 85,
+				"level": 1,
+				"desc":
+					"Following a Dodge, Movement Speed is increased by 10% for 3 seconds"
+			},
+			{
+				"id": 86,
+				"level": 2,
+				"desc":
+					"Following a Dodge, Movement Speed is increased by 15% for 3 seconds"
+			},
+			{
+				"id": 87,
+				"level": 3,
+				"desc":
+					"Following a Dodge, Movement Speed is increased by 20% for 3 seconds"
+			},
+			{
+				"id": 88,
+				"level": 4,
+				"desc":
+					"Following a Dodge, Movement Speed is increased by 25% for 3 seconds"
+			},
+			{
+				"id": 89,
+				"level": 5,
+				"desc":
+					"Following a Dodge, Movement Speed is increased by 30% for 3 seconds"
+			},
+			{
+				"id": 90,
+				"level": 6,
+				"desc":
+					"Following a Dodge, Movement Speed is increased by 35% for 3 seconds"
+			}
+		]
+	},
+	{
+		"id": 16,
+		"name": "Nimble",
+		"desc": "Restores Stamina when dodging through behemoth attacks.",
+		"type": "Mobility",
+		"levels": [
+			{
+				"id": 91,
+				"level": 1,
+				"desc": "Gain 10 Stamina after dodging through an attack"
+			},
+			{
+				"id": 92,
+				"level": 2,
+				"desc": "Gain 15 Stamina after dodging through an attack"
+			},
+			{
+				"id": 93,
+				"level": 3,
+				"desc": "Gain 20 Stamina after dodging through an attack"
+			},
+			{
+				"id": 94,
+				"level": 4,
+				"desc": "Gain 25 Stamina after dodging through an attack"
+			},
+			{
+				"id": 95,
+				"level": 5,
+				"desc": "Gain 30 Stamina after dodging through an attack"
+			},
+			{
+				"id": 96,
+				"level": 6,
+				"desc": "Gain 35 Stamina after dodging through an attack"
+			}
+		]
+	},
+	{
+		"id": 17,
+		"name": "Swift",
+		"desc": "Increases Movement Speed when your weapon is sheathed.",
+		"type": "Mobility",
+		"levels": [
+			{
+				"id": 97,
+				"level": 1,
+				"desc": "While sheathed, increases Movement Speed by 5%"
+			},
+			{
+				"id": 98,
+				"level": 2,
+				"desc": "While sheathed, increases Movement Speed by 10%"
+			},
+			{
+				"id": 99,
+				"level": 3,
+				"desc": "While sheathed, increases Movement Speed by 15%"
+			},
+			{
+				"id": 100,
+				"level": 4,
+				"desc": "While sheathed, increases Movement Speed by 20%"
+			},
+			{
+				"id": 101,
+				"level": 5,
+				"desc": "While sheathed, increases Movement Speed by 25%"
+			},
+			{
+				"id": 102,
+				"level": 6,
+				"desc":
+					"While sheathed, increases Movement Speed by 30%</br>Also affects other nearby Slayers."
+			}
+		]
+	},
+	{
+		"id": 18,
+		"name": "Aetherhunter",
+		"desc": "Increases damage against aether charged Behemoths.",
+		"type": "Power",
+		"levels": [
+			{
+				"id": 103,
+				"level": 1,
+				"desc": "105% Damage vs Aether-charged Behemoths"
+			},
+			{
+				"id": 104,
+				"level": 2,
+				"desc": "110% Damage vs Aether-charged Behemoths"
+			},
+			{
+				"id": 105,
+				"level": 3,
+				"desc": "120% Damage vs Aether-charged Behemoths"
+			},
+			{
+				"id": 106,
+				"level": 4,
+				"desc": "130% Damage vs Aether-charged Behemoths"
+			},
+			{
+				"id": 107,
+				"level": 5,
+				"desc": "140% Damage vs Aether-charged Behemoths"
+			},
+			{
+				"id": 108,
+				"level": 6,
+				"desc": "150% Damage vs Aether-charged Behemoths"
+			}
+		]
+	},
+	{
+		"id": 19,
+		"name": "Deconstruction",
+		"desc": "Bonus damage against objects created by Behemoths.",
+		"type": "Power",
+		"levels": [
+			{
+				"id": 109,
+				"level": 1,
+				"desc": "Deal 110% damage to objects created by Behemoths"
+			},
+			{
+				"id": 110,
+				"level": 2,
+				"desc": "Deal 120% damage to objects created by Behemoths"
+			},
+			{
+				"id": 111,
+				"level": 3,
+				"desc": "Deal 130% damage to objects created by Behemoths"
+			},
+			{
+				"id": 112,
+				"level": 4,
+				"desc": "Deal 150% damage to objects created by Behemoths"
+			},
+			{
+				"id": 113,
+				"level": 5,
+				"desc": "Deal 170% damage to objects created by Behemoths"
+			},
+			{
+				"id": 114,
+				"level": 6,
+				"desc": "Deal 200% damage to objects created by Behemoths"
+			}
+		]
+	},
+	{
+		"id": 20,
+		"name": "Knockout King",
+		"desc": "Percent increase to Stagger damage.",
+		"type": "Power",
+		"levels": [
+			{
+				"id": 115,
+				"level": 1,
+				"desc": "5% Stagger Damage"
+			},
+			{
+				"id": 116,
+				"level": 2,
+				"desc": "10% Stagger Damage"
+			},
+			{
+				"id": 117,
+				"level": 3,
+				"desc": "15% Stagger Damage"
+			},
+			{
+				"id": 118,
+				"level": 4,
+				"desc":
+					"20% Stagger Damage</br>After dodging through an attack, the next weapon attack's Stagger is increased by 50%"
+			},
+			{
+				"id": 119,
+				"level": 5,
+				"desc":
+					"25% Stagger Damage</br>After dodging through an attack, the next weapon attack's Stagger is increased by 50%"
+			},
+			{
+				"id": 120,
+				"level": 6,
+				"desc":
+					"30% Stagger Damage</br>After dodging through an attack, the next weapon attack's Stagger is increased by 100%"
+			}
+		]
+	},
+	{
+		"id": 21,
+		"name": "Overpower",
+		"desc": "Increases damage against staggered Behemoths.",
+		"type": "Power",
+		"levels": [
+			{
+				"id": 121,
+				"level": 1,
+				"desc": "110% Damage vs Staggered Behemoths"
+			},
+			{
+				"id": 122,
+				"level": 2,
+				"desc": "115% Damage vs Staggered Behemoths"
+			},
+			{
+				"id": 123,
+				"level": 3,
+				"desc": "125% Damage vs Staggered Behemoths"
+			},
+			{
+				"id": 124,
+				"level": 4,
+				"desc": "140% Damage vs Staggered Behemoths"
+			},
+			{
+				"id": 125,
+				"level": 5,
+				"desc": "160% Damage vs Staggered Behemoths"
+			},
+			{
+				"id": 126,
+				"level": 6,
+				"desc": "180% Damage vs Staggered Behemoths"
+			}
+		]
+	},
+	{
+		"id": 22,
+		"name": "Pacifier",
+		"desc": "Increases Stagger damage against enraged Behemoths.",
+		"type": "Power",
+		"levels": [
+			{
+				"id": 127,
+				"level": 1,
+				"desc": "110% Stagger vs Enraged Behemoths"
+			},
+			{
+				"id": 128,
+				"level": 2,
+				"desc": "120% Stagger vs Enraged Behemoths"
+			},
+			{
+				"id": 129,
+				"level": 3,
+				"desc": "130% Stagger vs Enraged Behemoths"
+			},
+			{
+				"id": 130,
+				"level": 4,
+				"desc": "140% Stagger vs Enraged Behemoths"
+			},
+			{
+				"id": 131,
+				"level": 5,
+				"desc": "150% Stagger vs Enraged Behemoths"
+			},
+			{
+				"id": 132,
+				"level": 6,
+				"desc": "160% Stagger vs Enraged Behemoths"
+			}
+		]
+	},
+	{
+		"id": 23,
+		"name": "Rage",
+		"desc": "Increases your damage when your health is low.",
+		"type": "Power",
+		"levels": [
+			{
+				"id": 133,
+				"level": 1,
+				"desc": "When under 30% health, deal 105% damage"
+			},
+			{
+				"id": 134,
+				"level": 2,
+				"desc": "When under 30% health, deal 108% damage"
+			},
+			{
+				"id": 135,
+				"level": 3,
+				"desc": "When under 30% health, deal 110% damage"
+			},
+			{
+				"id": 136,
+				"level": 4,
+				"desc": "When under 50% health, deal 115% damage"
+			},
+			{
+				"id": 137,
+				"level": 5,
+				"desc": "When under 50% health, deal 120% damage"
+			},
+			{
+				"id": 138,
+				"level": 6,
+				"desc": "When under 50% health, deal 125% damage"
+			}
+		]
+	},
+	{
+		"id": 24,
+		"name": "Ragehunter",
+		"desc": "Increases damage against enraged Behemoths.",
+		"type": "Power",
+		"levels": [
+			{
+				"id": 139,
+				"level": 1,
+				"desc": "105% Damage vs Enraged Behemoths"
+			},
+			{
+				"id": 140,
+				"level": 2,
+				"desc": "110% Damage vs Enraged Behemoths"
+			},
+			{
+				"id": 141,
+				"level": 3,
+				"desc": "120% Damage vs Enraged Behemoths"
+			},
+			{
+				"id": 142,
+				"level": 4,
+				"desc": "130% Damage vs Enraged Behemoths"
+			},
+			{
+				"id": 143,
+				"level": 5,
+				"desc": "140% Damage vs Enraged Behemoths"
+			},
+			{
+				"id": 144,
+				"level": 6,
+				"desc": "150% Damage vs Enraged Behemoths"
+			}
+		]
+	},
+	{
+		"id": 25,
+		"name": "Sharpened",
+		"desc": "Percent increase to part damage.",
+		"type": "Power",
+		"levels": [
+			{
+				"id": 145,
+				"level": 1,
+				"desc": "+5% Part Damage"
+			},
+			{
+				"id": 146,
+				"level": 2,
+				"desc": "+10% Part Damage"
+			},
+			{
+				"id": 147,
+				"level": 3,
+				"desc": "+15% Part Damage"
+			},
+			{
+				"id": 148,
+				"level": 4,
+				"desc":
+					"+20% Part Damage</br>After dodging through an attack, the next weapon attack's Part Break Damage is increased by 50%"
+			},
+			{
+				"id": 149,
+				"level": 5,
+				"desc":
+					"+25% Part Damage</br>After dodging through an attack, the next weapon attack's Part Break Damage is increased by 50%"
+			},
+			{
+				"id": 150,
+				"level": 6,
+				"desc":
+					"+30% Part Damage</br>After dodging through an attack, the next weapon attack's Part Break Damage is increased by 100%"
+			}
+		]
+	},
+	{
+		"id": 26,
+		"name": "Acidic",
+		"desc": "Increases Wound damage at the cost of Part damage.",
+		"type": "Technique",
+		"levels": [
+			{
+				"id": 151,
+				"level": 1,
+				"desc": "Converts 30% of Part Damage to Wound Damage"
+			},
+			{
+				"id": 152,
+				"level": 2,
+				"desc": "Converts 40% of Part Damage to Wound Damage"
+			},
+			{
+				"id": 153,
+				"level": 3,
+				"desc": "Converts 50% of Part Damage to Wound Damage"
+			},
+			{
+				"id": 154,
+				"level": 4,
+				"desc":
+					"Converts 50% of Part Damage to Wound Damage</br>+10 % Part damage "
+			},
+			{
+				"id": 155,
+				"level": 5,
+				"desc":
+					"Converts 50% of Part Damage to Wound Damage</br>+15 % Part damage "
+			},
+			{
+				"id": 156,
+				"level": 6,
+				"desc":
+					"Converts 50% of Part Damage to Wound Damage</br>+20 % Part damage "
+			}
+		]
+	},
+	{
+		"id": 27,
+		"name": "Barbed",
+		"desc": "Adds a flat amount of Wound damage on hit.",
+		"type": "Technique",
+		"levels": [
+			{
+				"id": 157,
+				"level": 1,
+				"desc": "+5 Wound Damage on Hit"
+			},
+			{
+				"id": 158,
+				"level": 2,
+				"desc": "+10 Wound Damage on Hit"
+			},
+			{
+				"id": 159,
+				"level": 3,
+				"desc": "+15 Wound Damage on Hit"
+			},
+			{
+				"id": 160,
+				"level": 4,
+				"desc":
+					"+20 Wound Damage on Hit</br>After dodging through an attack, the next attack's Expose Damage is increased by 200"
+			},
+			{
+				"id": 161,
+				"level": 5,
+				"desc":
+					"+30 Wound Damage on Hit</br>After dodging through an attack, the next attack's Expose Damage is increased by 200"
+			},
+			{
+				"id": 162,
+				"level": 6,
+				"desc":
+					"+40 Wound Damage on Hit</br>After dodging through an attack, the next attack's Expose Damage is increased by 400"
+			}
+		]
+	},
+	{
+		"id": 28,
+		"name": "Bladestorm",
+		"desc": "Adds a flat amount of Part damage on hit.",
+		"type": "Technique",
+		"levels": [
+			{
+				"id": 163,
+				"level": 1,
+				"desc": "+5 Part Damage on Hit"
+			},
+			{
+				"id": 164,
+				"level": 2,
+				"desc": "+10 Part Damage on Hit"
+			},
+			{
+				"id": 165,
+				"level": 3,
+				"desc": "+15 Part Damage on Hit"
+			},
+			{
+				"id": 166,
+				"level": 4,
+				"desc":
+					"+20 Part Damage on Hit</br>+200 Part Damage after dodging through an attack"
+			},
+			{
+				"id": 167,
+				"level": 5,
+				"desc":
+					"+30 Part Damage on Hit</br>+200 Part Damage after dodging through an attack"
+			},
+			{
+				"id": 168,
+				"level": 6,
+				"desc":
+					"+40 Part Damage on Hit</br>+400 Part Damage after dodging through an attack"
+			}
+		]
+	},
+	{
+		"id": 29,
+		"name": "Cunning",
+		"desc": "Grants a chance to deal double damage.",
+		"type": "Technique",
+		"levels": [
+			{
+				"id": 169,
+				"level": 1,
+				"desc": "1% chance to deal double damage"
+			},
+			{
+				"id": 170,
+				"level": 2,
+				"desc": "2% chance to deal double damage"
+			},
+			{
+				"id": 171,
+				"level": 3,
+				"desc": "3% chance to deal double damage"
+			},
+			{
+				"id": 172,
+				"level": 4,
+				"desc": "5% chance to deal double damage"
+			},
+			{
+				"id": 173,
+				"level": 5,
+				"desc": "7% chance to deal double damage"
+			},
+			{
+				"id": 174,
+				"level": 6,
+				"desc": "10% chance to deal double damage"
+			}
+		]
+	},
+	{
+		"id": 30,
+		"name": "Evasive Fury",
+		"desc":
+			"Temporarily increases attack speed when dodging through a Behemoth's attack.",
+		"type": "Technique",
+		"levels": [
+			{
+				"id": 175,
+				"level": 1,
+				"desc": "4% Attack Speed for 8 seconds after dodging through an attack"
+			},
+			{
+				"id": 176,
+				"level": 2,
+				"desc": "8% Attack Speed for 8 seconds after dodging through an attack"
+			},
+			{
+				"id": 177,
+				"level": 3,
+				"desc": "12% Attack Speed for 8 seconds after dodging through an attack"
+			},
+			{
+				"id": 178,
+				"level": 4,
+				"desc": "16% Attack Speed for 8 seconds after dodging through an attack"
+			},
+			{
+				"id": 179,
+				"level": 5,
+				"desc": "20% Attack Speed for 8 seconds after dodging through an attack"
+			},
+			{
+				"id": 180,
+				"level": 6,
+				"desc":
+					"25% Attack Speed for 16 seconds after dodging through an attack"
+			}
+		]
+	},
+	{
+		"id": 31,
+		"name": "Merciless",
+		"desc": "Increases Wound damage against staggered Behemoths.",
+		"type": "Technique",
+		"levels": [
+			{
+				"id": 181,
+				"level": 1,
+				"desc": "+25 Wound Damage vs Staggered Behemoths"
+			},
+			{
+				"id": 182,
+				"level": 2,
+				"desc": "+40 Wound Damage vs Staggered Behemoths"
+			},
+			{
+				"id": 183,
+				"level": 3,
+				"desc": "+55 Wound Damage vs Staggered Behemoths"
+			},
+			{
+				"id": 184,
+				"level": 4,
+				"desc": "+70 Wound Damage vs Staggered Behemoths"
+			},
+			{
+				"id": 185,
+				"level": 5,
+				"desc": "+85 Wound Damage vs Staggered Behemoths"
+			},
+			{
+				"id": 186,
+				"level": 6,
+				"desc": "+100 Wound Damage vs Staggered Behemoths"
+			}
+		]
+	},
+	{
+		"id": 32,
+		"name": "Savagery",
+		"desc": "Increases damage against Wounded parts.",
+		"type": "Technique",
+		"levels": [
+			{
+				"id": 187,
+				"level": 1,
+				"desc": "120% Damage vs Wounded Parts"
+			},
+			{
+				"id": 188,
+				"level": 2,
+				"desc": "130% Damage vs Wounded Parts"
+			},
+			{
+				"id": 189,
+				"level": 3,
+				"desc": "140% Damage vs Wounded Parts"
+			},
+			{
+				"id": 190,
+				"level": 4,
+				"desc": "160% Damage vs Wounded Parts"
+			},
+			{
+				"id": 191,
+				"level": 5,
+				"desc": "180% Damage vs Wounded Parts"
+			},
+			{
+				"id": 192,
+				"level": 6,
+				"desc": "200% Damage vs Wounded Parts"
+			}
+		]
+	},
+	{
+		"id": 33,
+		"name": "Wild Frenzy",
+		"desc": "Increases Attack Speed when at low health.",
+		"type": "Technique",
+		"levels": [
+			{
+				"id": 193,
+				"level": 1,
+				"desc": "When under 30% health, increase attack speed by 5%"
+			},
+			{
+				"id": 194,
+				"level": 2,
+				"desc": "When under 30% health, increase attack speed by 8%"
+			},
+			{
+				"id": 195,
+				"level": 3,
+				"desc": "When under 30% health, increase attack speed by 12%"
+			},
+			{
+				"id": 196,
+				"level": 4,
+				"desc": "When under 50% health, increase attack speed by 16%"
+			},
+			{
+				"id": 197,
+				"level": 5,
+				"desc": "When under 50% health, increase attack speed by 20%"
+			},
+			{
+				"id": 198,
+				"level": 6,
+				"desc": "When under 50% health, increase attack speed by 25%"
+			}
+		]
+	},
+	{
+		"id": 34,
+		"name": "Weighted Strikes",
+		"desc":
+			"Adds a flat amount of Stagger damage on hit. At later ranks, allows more weapon attacks to interrupt.",
+		"type": "Technique",
+		"levels": [
+			{
+				"id": 199,
+				"level": 1,
+				"desc": "+5 Stagger Damage on Hit"
+			},
+			{
+				"id": 200,
+				"level": 2,
+				"desc": "+10 Stagger Damage on Hit"
+			},
+			{
+				"id": 201,
+				"level": 3,
+				"desc": "+15 Stagger Damage on Hit"
+			},
+			{
+				"id": 202,
+				"level": 4,
+				"desc":
+					"+20 Stagger Damage on Hit +200 Stagger after dodging through an attack"
+			},
+			{
+				"id": 203,
+				"level": 5,
+				"desc":
+					"+30 Stagger Damage on Hit +200 Stagger after dodging through an attack"
+			},
+			{
+				"id": 204,
+				"level": 6,
+				"desc":
+					"+40 Stagger Damage on Hit +400 Stagger after dodging through an attack</br>Ranged swings and missiles interrupt unstable Behemoth attacks"
+			}
+		]
+	},
+	{
+		"id": 35,
+		"name": "Aetherborne",
+		"desc": "Increases the benefits of using aether vents.",
+		"type": "Utility",
+		"levels": [
+			{
+				"id": 205,
+				"level": 1,
+				"desc":
+					"25% chance not to consume an Aether Vent charge on use.</br>25 additional Aether Vent healing."
+			},
+			{
+				"id": 206,
+				"level": 2,
+				"desc":
+					"25% chance not to consume an Aether Vent charge on use.</br>50 additional Aether Vent healing."
+			},
+			{
+				"id": 207,
+				"level": 3,
+				"desc":
+					"25% chance not to consume an Aether Vent charge on use.</br>75 additional Aether Vent healing."
+			},
+			{
+				"id": 208,
+				"level": 4,
+				"desc":
+					"25% chance not to consume an Aether Vent charge on use.</br>100 additional Aether Vent healing."
+			},
+			{
+				"id": 209,
+				"level": 5,
+				"desc":
+					"25% chance not to consume an Aether Vent charge on use.</br>150 additional Aether Vent healing."
+			},
+			{
+				"id": 210,
+				"level": 6,
+				"desc":
+					"25% chance not to consume an Aether Vent charge on use.</br>200 additional Aether Vent healing."
+			}
+		]
+	},
+	{
+		"id": 36,
+		"name": "Aetheric Attunement",
+		"desc": "Percent increase to Lantern Charge gained from attacks.",
+		"type": "Utility",
+		"levels": [
+			{
+				"id": 211,
+				"level": 1,
+				"desc": "+10% Lantern Charge"
+			},
+			{
+				"id": 212,
+				"level": 2,
+				"desc": "+20% Lantern Charge"
+			},
+			{
+				"id": 213,
+				"level": 3,
+				"desc": "+40% Lantern Charge"
+			},
+			{
+				"id": 214,
+				"level": 4,
+				"desc": "+60% Lantern Charge"
+			},
+			{
+				"id": 215,
+				"level": 5,
+				"desc": "+80% Lantern Charge"
+			},
+			{
+				"id": 216,
+				"level": 6,
+				"desc": "+100% Lantern Charge"
+			}
+		]
+	},
+	{
+		"id": 37,
+		"name": "Aetheric Frenzy",
+		"desc": "Gains a flat amount of Lantern Charge on each weapon hit.",
+		"type": "Utility",
+		"levels": [
+			{
+				"id": 217,
+				"level": 1,
+				"desc": "+1 Lantern Charge on Hit"
+			},
+			{
+				"id": 218,
+				"level": 2,
+				"desc": "+2 Lantern Charge on Hit"
+			},
+			{
+				"id": 219,
+				"level": 3,
+				"desc": "+4 Lantern Charge on Hit"
+			},
+			{
+				"id": 220,
+				"level": 4,
+				"desc": "+6 Lantern Charge on Hit"
+			},
+			{
+				"id": 221,
+				"level": 5,
+				"desc": "+8 Lantern Charge on Hit"
+			},
+			{
+				"id": 222,
+				"level": 6,
+				"desc": "+10 Lantern Charge on Hit"
+			}
+		]
+	},
+	{
+		"id": 38,
+		"name": "Energized",
+		"desc": "Increases weapon meter gain rate.",
+		"type": "Utility",
+		"levels": [
+			{
+				"id": 223,
+				"level": 1,
+				"desc": "+10% Weapon Charge rate"
+			},
+			{
+				"id": 224,
+				"level": 2,
+				"desc": "+15% Weapon Charge rate"
+			},
+			{
+				"id": 225,
+				"level": 3,
+				"desc": "+20% Weapon Charge rate"
+			},
+			{
+				"id": 226,
+				"level": 4,
+				"desc": "+25% Weapon Charge rate"
+			},
+			{
+				"id": 227,
+				"level": 5,
+				"desc": "+30% Weapon Charge rate"
+			},
+			{
+				"id": 228,
+				"level": 6,
+				"desc": "+40% Weapon Charge rate"
+			}
+		]
+	},
+	{
+		"id": 39,
+		"name": "Medic",
+		"desc": "Improves your ability to revive allies.",
+		"type": "Utility",
+		"levels": [
+			{
+				"id": 229,
+				"level": 1,
+				"desc": "When reviving an ally, they are healed an additional 10%"
+			},
+			{
+				"id": 230,
+				"level": 2,
+				"desc": "When reviving an ally, they are healed an additional 20%"
+			},
+			{
+				"id": 231,
+				"level": 3,
+				"desc": "When reviving an ally, they are healed an additional 30%"
+			},
+			{
+				"id": 232,
+				"level": 4,
+				"desc":
+					"When reviving an ally, they are healed an additional 30%</br>Increases Revive Speed by 66%"
+			},
+			{
+				"id": 233,
+				"level": 5,
+				"desc":
+					"When reviving an ally, they are healed an additional 50%</br>Increases Revive Speed by 66%"
+			},
+			{
+				"id": 234,
+				"level": 6,
+				"desc":
+					"When reviving an ally, they are healed an additional 100%</br>Increases Revive Speed by 66%</br>Grants a 400 health shield for 20 seconds after reviving an ally."
+			}
+		]
+	},
+	{
+		"id": 40,
+		"name": "Stunning Vigour",
+		"desc": "Restores some health whenever a Behemoth is staggered.",
+		"type": "Utility",
+		"levels": [
+			{
+				"id": 235,
+				"level": 1,
+				"desc": "Heal for 50 whenever a Behemoth is Staggered"
+			},
+			{
+				"id": 236,
+				"level": 2,
+				"desc": "Heal for 75 whenever a Behemoth is Staggered"
+			},
+			{
+				"id": 237,
+				"level": 3,
+				"desc": "Heal for 100 whenever a Behemoth is Staggered"
+			},
+			{
+				"id": 238,
+				"level": 4,
+				"desc": "Heal for 125 whenever a Behemoth is Staggered"
+			},
+			{
+				"id": 239,
+				"level": 5,
+				"desc": "Heal for 150 whenever a Behemoth is Staggered"
+			},
+			{
+				"id": 240,
+				"level": 6,
+				"desc": "Heal for 200 whenever a Behemoth is Staggered"
+			}
+		]
+	},
+	{
+		"id": 41,
+		"name": "Vampiric",
+		"desc": "Restores some health whenever a Behemoth part is Wounded.",
+		"type": "Utility",
+		"levels": [
+			{
+				"id": 241,
+				"level": 1,
+				"desc": "Heal for 50 whenever a Behemoth is Wounded"
+			},
+			{
+				"id": 242,
+				"level": 2,
+				"desc": "Heal for 75 whenever a Behemoth is Wounded"
+			},
+			{
+				"id": 243,
+				"level": 3,
+				"desc": "Heal for 100 whenever a Behemoth is Wounded"
+			},
+			{
+				"id": 244,
+				"level": 4,
+				"desc": "Heal for 125 whenever a Behemoth is Wounded"
+			},
+			{
+				"id": 245,
+				"level": 5,
+				"desc": "Heal for 150 whenever a Behemoth is Wounded"
+			},
+			{
+				"id": 246,
+				"level": 6,
+				"desc": "Heal for 200 whenever a Behemoth is Wounded"
+			}
+		]
+	}
+]

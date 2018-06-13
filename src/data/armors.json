@@ -1,0 +1,81 @@
+[
+	{
+		"id": 1,
+		"name": "Recruit",
+		"tier": 0,
+		"location": "The Sheltered Frontier",
+		"pieces": [
+			{
+				"id": 1,
+				"name": "Recruit's Mask",
+				"type": "head",
+				"tier": 0,
+				"location": "The Sheltered Frontier",
+				"perks": [{}],
+				"slots": "",
+				"crafting": [
+					{ "level0": [{}] },
+					{ "level1": [{ "quant:": 1, "item": "Armour Upgrade Token" }] }
+				],
+				"assets": {},
+				"armorSet": 1
+			},
+			{
+				"id": 2
+			},
+			{ "id": 3 },
+			{ "id": 4 }
+		]
+	},
+	{
+		"id": 2,
+		"name": "Gnasher",
+		"tier": 1,
+		"location": "The Monstrous Verge",
+		"pieces": [
+			{
+				"id": 5,
+				"name": "Recruit's Mask",
+				"type": "head",
+				"tier": 1,
+				"location": "The Monstrous Verge",
+				"perks": [{}],
+				"slots": "",
+				"crafting": [
+					{ "level0": [{}] },
+					{ "level1": [{ "quant:": 1, "item": "Armour Upgrade Token" }] }
+				],
+				"assets": {},
+				"armorSet": 1
+			},
+			{
+				"id": 6
+			},
+			{ "id": 7 },
+			{ "id": 8 }
+		]
+	},
+	{},
+	{},
+	{},
+	{},
+	{},
+	{},
+	{},
+	{},
+	{},
+	{},
+	{},
+	{},
+	{},
+	{},
+	{},
+	{},
+	{},
+	{},
+	{},
+	{},
+	{},
+	{},
+	{}
+]
